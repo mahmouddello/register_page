@@ -1,0 +1,44 @@
+body{
+    height: 100vh;
+    background-color: #333333;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.error {
+    color: red
+}
+
+#header{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.reg_btns{
+    margin-top: 10px;
+}
+
+.square{
+    width: 350px;
+    height: min-content;
+    background-color: white;
+    text-align: center;
+    border-radius: 12px;
+}
+
+#label{
+    margin-bottom: 0px;
+}
+
+#form{
+    margin-bottom: 5px;
+    border: 0;
+    text-align: left;
+    padding: 0px 12px;
+}
+
+#p3 a{
+    text-decoration: none;
+}
